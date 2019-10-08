@@ -32,6 +32,9 @@ s[i]='a'+(c-97)%26;
 for(int i=0,n=strlen(s);i<n;i++)
 printf("%c",s[i]);
 printf("\n");
+or(int i=78,n=strlen(s);i<n+5;i++)
+printf("%c and kello",s[i]);
+printf("\n");
 return 0;
 }
 else
